@@ -1,7 +1,7 @@
 import { useCallback, useState } from 'react';
 // Audio
 import { AudioPlayer } from 'react-audio-play';
-import Audio from "./assets/audio.mp3";
+import Audio from "./assets/audios.mp3";
 // Pdf
 import { pdfjs, Document, Page } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
